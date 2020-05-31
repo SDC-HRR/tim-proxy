@@ -17,10 +17,12 @@
   },
   "homepage": "https://github.com/Team-Gandalf/reviews-proxy#readme",
   "dependencies": {
+    "artillery": "^1.6.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "http-proxy-middleware": "^1.0.3"
+    "http-proxy-middleware": "^1.0.3",
+    "newrelic": "^6.8.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
